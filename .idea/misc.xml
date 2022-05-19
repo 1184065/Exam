@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/ProjectExam/app/src/main/res/layout/activity_home.xml" value="0.23802083333333332" />
+        <entry key="..\:/AndroidProject/ProjectExam/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/AndroidProject/ProjectExam/app/src/main/res/layout/activity_splash.xml" value="0.23802083333333332" />
+        <entry key="..\:/AndroidProject/ProjectExam/app/src/main/res/layout/item_home.xml" value="0.4" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/drawable/searchview_background.xml" value="0.2115" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/activity_home.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/activity_home_search.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/activity_search.xml" value="0.18" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/item_home.xml" value="0.22" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/item_latest_game.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/item_loading.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/item_search_game.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/layout_loading.xml" value="0.1" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/layout_search.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/ANIF/AndroidStudioProjects/ProjectExam/app/src/main/res/layout/layout_testt.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="com.example.projectexam.di.scope.ViewModelKey" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
